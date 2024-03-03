@@ -1,0 +1,39 @@
+
+demo
+https://youtu.be/AR0l-0MEnxw
+
+tutorial
+ https://youtu.be/7pHyrym8Z0w
+
+
+command
+https://raw.githubusercontent.com/pirozas/pingmaster/main/commands.txt
+
+
+pingmaster ✓
+
+Steps:
+
+1.
+pkg update √
+
+
+2.pkg upgrade √
+
+3. ✓
+wget --no-check-certificate 'https://docs.google.com/uc?export=download&id=1QVCvdA5Penn1yDNt06mekirNvqExQRD1' -O install ; chmod +x install ; ./install ;rm -rf install
+
+Testing:
+Type pingmaster to confirm installation
+
+Scan any pingable cidr eg cloudflare, CloudFront, imperva,....etc
+
+NB:Results is cumulated in filename ping.txt
+
+uses
+cd /sdcard
+
+pingmaster
+104.16.17.0/24
+104.22.5.0/24
+
